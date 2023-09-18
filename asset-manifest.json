@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rookiecard/static/css/main.23875184.css",
+    "main.js": "/rookiecard/static/js/main.00909f9b.js",
+    "static/js/787.8ccd8f86.chunk.js": "/rookiecard/static/js/787.8ccd8f86.chunk.js",
+    "index.html": "/rookiecard/index.html",
+    "main.23875184.css.map": "/rookiecard/static/css/main.23875184.css.map",
+    "main.00909f9b.js.map": "/rookiecard/static/js/main.00909f9b.js.map",
+    "787.8ccd8f86.chunk.js.map": "/rookiecard/static/js/787.8ccd8f86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23875184.css",
+    "static/js/main.00909f9b.js"
+  ]
+}
